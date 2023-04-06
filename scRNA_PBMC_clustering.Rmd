@@ -1,0 +1,15 @@
+---
+title: "Biostatistical Project"
+author: "Saman"
+date: "`r Sys.setlocale('LC_TIME', 'C');format(Sys.Date(),format='%B %e, %Y')`"
+output:
+  html_document: default
+  pdf_document: default
+editor_options:
+  chunk_output_type: console
+---
+
+
+```{r t-test, include=TRUE,echo=TRUE, message=F}
+
+```
